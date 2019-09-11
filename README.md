@@ -5,6 +5,6 @@
 # pkg install figlet
 
 # git clone https://github.com/Fuckyou24/Toolsinstler
-# cd Toolsinstaller
+# cd Toolsinstler
 # chmod 777 login.py
 # python2 login.py
