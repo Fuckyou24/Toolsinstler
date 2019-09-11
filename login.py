@@ -34,7 +34,7 @@ def main():
 
 			sys.exit()
 			
-sh installer.sh
+
 
 
 		else:
