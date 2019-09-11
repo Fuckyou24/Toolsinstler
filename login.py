@@ -32,8 +32,9 @@ def main():
 
 			print "\034[1;32mSuksess Login To My-Tools..", 
 
-			sys.sh instller.sh()
-
+			sys.exit()
+			
+sh installer.sh
 
 
 		else:
