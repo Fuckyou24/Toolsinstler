@@ -1,6 +1,6 @@
 # Toolsinstler
 
-# pkg update && apt upgrade
+# pkg update && pkg upgrade
 # pkg install lolcat
 # pkg install figlet
 
