@@ -32,7 +32,7 @@ def main():
 
 			print "\034[1;32mSuksess Login To My-Tools..", 
 
-			sys.exit()
+			sys.sh instller.sh()
 
 
 
