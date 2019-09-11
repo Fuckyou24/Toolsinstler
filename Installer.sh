@@ -14,8 +14,8 @@ clear
 	echo
 	clear
 	echo
-	echo $blue"          ======================+++++++++++==================="
-	echo $red"            Sabar yah Sayang Lagi Nginstall Toolnya Nih ,oke ."   
+	echo $blue"       ======================+++++++++++==================="
+	echo $red"         Sabar yah Sayang Lagi Nginstall Toolnya Nih ,oke ."   
 	sleep 1
 	echo '''\a
 	\033[34;1m                              _
@@ -24,17 +24,17 @@ clear
 	\033[36;1m                             | |
 	\033[37;1m                            _|_|_ '''
 	sleep 1
-	apt update && apt upgrade
-	apt install nano
-	apt install git
-	pkg install python python2 vim figlet curl
+	apt update && apt upgrade -y
+	apt install nano -y
+	apt install git -y
+	pkg install python python2 vim figlet curl -y
 	clear
 	echo
 	echo
 	echo
 	echo
-	echo $blue"         ======================+++++++++++==================="
-	echo $red"           Jika Anda Ganteng Maka Proses Instalasi Akan Cepat"
+	echo $blue"      ======================+++++++++++==================="
+	echo $red"        Jika Anda Ganteng Maka Proses Instalasi Akan Cepat"
 	sleep 1
 	echo '''\a
 	\033[32;1m                             ____
@@ -43,17 +43,17 @@ clear
 	\033[36;1m                            / __/
 	\033[37;1m                           |_____| '''
 	sleep 1
-	apt install php
-	pip2 install mechanize
-	pip2 install lolcat
-	pip2 install requests
+	apt install php -y
+	pip2 install mechanize -y
+	pip2 install lolcat -y
+	pip2 install requests -y
 	clear
 	echo
 	echo
 	echo
 	echo
-	echo $blue"         ======================+++++++++++==================="
-	echo $red"            Semakin Ganteng Semakin Cepat Masuk ke Menu"
+	echo $blue"      ======================+++++++++++==================="
+	echo $red"         Semakin Ganteng Semakin Cepat Masuk ke Menu"
 	sleep 1
 	echo '''\a
 	\033[35;1m                            _____
@@ -67,7 +67,7 @@ clear
 	echo
 	echo
 	echo
-	echo $blue"         ======================+++++++++++==================="
+	echo $blue"      ======================+++++++++++==================="
 	echo $red"            Btw Jika Anda Cewe hubungi :085240457692"
 	sleep 1
 	echo '''\a
@@ -82,10 +82,9 @@ clear
 	echo
 	echo
 	echo
-	echo $white"         Prosses failed to go to the Main Menu"
-  echo
-  echo $blue"          Lu sih Burik :v ,wkwkw canda mank:v"
-  echo $red"            F For Respect"
+	echo $pu"         Prosses failed to go to the Main Menu"
+        echo
+        echo $me"            F For Respect"
 	sleep 1
 	echo '''\a
 	\033[36;1m                             ____
