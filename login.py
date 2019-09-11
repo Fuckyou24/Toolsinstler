@@ -1,3 +1,4 @@
+clear
 import os, sys
 
 print ("\033[1;34mSilahkan Masukkan ID & Password My-Tools")
