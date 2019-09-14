@@ -85,7 +85,8 @@ clear
 	echo $pu"         Prosses failed to go to the Main Menu"
         echo
         echo $me"            F For Respect"
-	sleep 1
+	echo $blue"      ======================+++++++++++==================="
+        sleep 1
 	echo '''\a
 	\033[36;1m                             ____
 	\033[35;1m                            | ___|
